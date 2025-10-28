@@ -6,13 +6,13 @@ layout: default
 
 # Yue Wan (Zoe)
 
-PhD Applicant | [Your Field - e.g., Electrical Engineering / Computer Science]
+MSE at Johns Hopkins University. Love doing Computational Neuroscience/Biomedical Data Science Research 
 
-[Email](mailto:your.email@example.com) | [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Google Scholar](your-scholar-link) | [CV](./cv.pdf)
+[Email](mailto:ywan23@jh.edu) | [GitHub](https://github.com/YueWan1) | [LinkedIn](www.linkedin.com/in/zoewan-71a956284) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=uKN8SV8AAAAJ)
 
 ---
 
-## Introduction
+## About Me
 
 I am a Master's graduate from [University Name], where I specialized in [your specific area]. I am currently seeking PhD opportunities to advance my research in [your main research area].
 
