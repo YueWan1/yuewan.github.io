@@ -30,8 +30,6 @@ My research interests lie at the intersection of [Field A] and [Field B]. Curren
 - **[Research Area 2]**  
   [2-3 sentences. How does this relate to real-world applications? What computational/theoretical methods are you using? What questions are you trying to answer?]
 
-- **[Optional: Research Area 3]**  
-  [2-3 sentences if you have a third distinct area]
 
 Together, these research directions form my broader agenda: [1-2 sentences about your overarching research vision and how these areas connect].
 
@@ -39,45 +37,23 @@ Together, these research directions form my broader agenda: [1-2 sentences about
 
 ## Publications
 
-### Preprints
 
 **[Your Paper Title]**  
 **Yue Wan**, Co-author 2, Co-author 3  
-*Under Review at [Journal Name]*  
+*In Preparation for Submission to [CompBio]*  
 [[arXiv](https://arxiv.org/abs/XXXX.XXXXX)] [[PDF](./papers/yourpaper.pdf)]
 
 ---
 
 ## Projects
 
-**[Project 1 Title]** | *[Time Period]*  
-[1-2 sentence description of what the project does and your main contribution]  
-[[GitHub](https://github.com/yourusername/project1)] [[Report](./reports/project1.pdf)]
+**[GEPT]** [[GitHub](https://github.com/yourusername/project1)] [[Report](./reports/project1.pdf)]
 
-**[Project 2 Title]** | *[Time Period]*  
-[1-2 sentence description]  
-[[GitHub](https://github.com/yourusername/project2)] [[Report](./reports/project2.pdf)]
+**[DFIG]** [[GitHub](https://github.com/yourusername/project2)] [[Report](./reports/project2.pdf)]
 
-**[Project 3 Title]** | *[Time Period]*  
-[1-2 sentence description]  
-[[GitHub](https://github.com/yourusername/project3)] [[Report](./reports/project3.pdf)]
-
-**[Project 4 Title]** | *[Time Period]*  
-[1-2 sentence description]  
-[[GitHub](https://github.com/yourusername/project4)] [[Report](./reports/project4.pdf)]
 
 ---
 
-## Education
-
-**Master of Science in [Your Major]**  
-*[University Name]* | [Year - Year]  
-Advisor: [Professor Name]
-
-**Bachelor of Science in [Your Major]**  
-*[University Name]* | [Year - Year]
-
----
 
 <p style="text-align:center; color:#666; font-size:0.9em;">
 Last updated: October 2025
