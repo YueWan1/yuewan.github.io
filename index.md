@@ -2,11 +2,11 @@
 
 <img src="headshot.JPG" alt="Yue Wan (Zoe)" style="width:200px; border-radius:50%; display:block; margin:20px auto;">
 
-# Your Name
+# Yue Wan (Zoe)
 
 PhD Applicant | [Your Field, e.g., Computer Science / Electrical Engineering]
 
-[Email](mailto:your.email@example.com) | [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Google Scholar](your-scholar-link) | [CV](./cv.pdf)
+[Email](mailto:your.email@example.com) | [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Google Scholar](your-scholar-link)
 
 ---
 
@@ -46,7 +46,7 @@ I believe that [your perspective on how these topics connect or why they're impo
 
 ---
 
-## Research Projects
+## Projects
 
 ### [Project 1 Title]
 
@@ -86,55 +86,7 @@ I believe that [your perspective on how these topics connect or why they're impo
 
 ---
 
-### [Project 3 Title]
 
-**[Brief one-line description]** | *[Time Period]*
-
-[2-3 sentence description]
-
-**Key Contributions:**
-- [Contribution 1]
-- [Contribution 2]
-
-**Technologies:** [List your tech stack]
-
-[[GitHub Repo](https://github.com/yourusername/project3)] [[Project Report](./reports/project3.pdf)]
-
----
-
-## Education
-
-**Master of Science in [Your Major]**  
-*[University Name]* | [City, Country] | [Start Year] - [End Year]  
-- Thesis: "[Your Thesis Title]"
-- Advisor: [Professor Name]
-- GPA: [Your GPA if strong]
-
-**Bachelor of Science in [Your Major]**  
-*[University Name]* | [City, Country] | [Start Year] - [End Year]  
-- [Any honors, distinctions, or notable achievements]
-- GPA: [Your GPA if strong]
-
----
-
-## Skills
-
-**Programming Languages:** Python, C++, Java, MATLAB, R  
-**Machine Learning/AI:** PyTorch, TensorFlow, scikit-learn  
-**Tools & Platforms:** Git, Docker, Linux, LaTeX, Jupyter  
-**Languages:** English (Fluent), Chinese (Native)
-
----
-
-## Contact
-
-I am actively seeking PhD positions starting in Fall 2026. If you are interested in my research or would like to discuss potential collaborations, please feel free to reach out!
-
-📧 **Email:** your.email@example.com  
-🏫 **Location:** [City, Country]  
-🔗 **Links:** [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Google Scholar](link)
-
----
 
 <p style="text-align:center; color:#666; font-size:0.9em;">
 Last updated: October 2025
