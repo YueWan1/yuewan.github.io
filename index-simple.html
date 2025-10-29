@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yue Wan (Zoe)</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        .container {
+            display: flex;
+            min-height: 100vh;
+        }
+
+        /* 左侧边栏 - 固定 */
+        .sidebar {
+            width: 300px;
+            background-color: #f6f8fa;
+            padding: 40px 30px;
+            position: fixed;
+            height: 100vh;
+            overflow-y: auto;
+        }
+
+        .profile-img {
+            width: 180px;
+            height: 180px;
+            border-radius: 50%;
+            display: block;
+            margin: 0 auto 20px;
+            object-fit: cover;
+        }
+
+        .sidebar h1 {
+            font-size: 1.8em;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+
+        .sidebar .subtitle {
+            font-size: 0.95em;
+            color: #586069;
+            text-align: center;
+            margin-bottom: 30px;
+            line-height: 1.5;
+        }
+
+        .sidebar .links {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .sidebar .links a {
+            color: #0366d6;
+            text-decoration: none;
+            font-size: 1em;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .sidebar .links a:hover {
+            text-decoration: underline;
+        }
+
+        /* 右侧内容 - 可滚动 */
+        .main-content {
+            margin-left: 300px;
+            padding: 50px 60px;
+            flex: 1;
+            max-width: 900px;
+        }
+
+        .main-content h2 {
+            font-size: 1.6em;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #eaecef;
+        }
+
+        .main-content h2:first-child {
+            margin-top: 0;
+        }
+
+        .main-content p {
+            margin-bottom: 15px;
+        }
+
+        .main-content ul {
+            margin-left: 25px;
+            margin-bottom: 20px;
+        }
+
+        .main-content ul li {
+            margin-bottom: 12px;
+        }
+
+        .paper {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #f6f8fa;
+            border-left: 3px solid #0366d6;
+        }
+
+        .paper h4 {
+            font-size: 1.05em;
+            margin-bottom: 5px;
+        }
+
+        .paper .authors {
+            color: #586069;
+            font-size: 0.9em;
+            margin-bottom: 3px;
+        }
+
+        .paper .venue {
+            font-style: italic;
+            color: #586069;
+            font-size: 0.9em;
+            margin-bottom: 8px;
+        }
+
+        .paper a {
+            color: #0366d6;
+            text-decoration: none;
+            margin-right: 12px;
+            font-size: 0.9em;
+        }
+
+        .paper a:hover {
+            text-decoration: underline;
+        }
+
+        /* 响应式设计 */
+        @media (max-width: 968px) {
+            .container {
+                flex-direction: column;
+            }
+
+            .sidebar {
+                position: relative;
+                width: 100%;
+                height: auto;
+            }
+
+            .main-content {
+                margin-left: 0;
+                padding: 40px 30px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- 左侧边栏 -->
+        <aside class="sidebar">
+            <img src="headshot.JPG" alt="Yue Wan (Zoe)" class="profile-img">
+            <h1>Yue Wan (Zoe)</h1>
+            <p class="subtitle">MSE at Johns Hopkins University. Love doing Computational Neuroscience/Biomedical Data Science Research</p>
+            
+            <div class="links">
+                <a href="mailto:ywan23@jh.edu">📧 Email</a>
+                <a href="https://github.com/YueWan1" target="_blank">💻 GitHub</a>
+                <a href="https://www.linkedin.com/in/zoewan-71a956284" target="_blank">💼 LinkedIn</a>
+                <a href="https://scholar.google.com/citations?hl=en&user=uKN8SV8AAAAJ" target="_blank">🎓 Google Scholar</a>
+            </div>
+        </aside>
+
+        <!-- 右侧主内容 -->
+        <main class="main-content">
+            <h2>About Me</h2>
+            <p>
+                I am a Master's graduate from [University Name], where I specialized in [your specific area]. I am currently seeking PhD opportunities to advance my research in [your main research area].
+            </p>
+            <p>
+                At [University Name], I was advised by [Professor Name]. My research focuses on [brief description of your main research direction]. Prior to my Master's studies, I completed my undergraduate degree in [Major] at [University Name].
+            </p>
+
+            <h2>Research Interests</h2>
+            <p>
+                My research interests lie at the intersection of [Field A] and [Field B]. Currently, I focus on the following areas:
+            </p>
+            <ul>
+                <li>
+                    <strong>[Research Area 1]</strong><br>
+                    [2-3 sentences explaining this area. What problems are you interested in? What approaches do you use?]
+                </li>
+                <li>
+                    <strong>[Research Area 2]</strong><br>
+                    [2-3 sentences. How does this relate to real-world applications? What methods are you using?]
+                </li>
+            </ul>
+
+            <h2>Publications</h2>
+            <div class="paper">
+                <h4>[Your Paper Title]</h4>
+                <p class="authors"><strong>Yue Wan</strong>, Co-author 2, Co-author 3</p>
+                <p class="venue">In Preparation for Submission to [CompBio]</p>
+                <a href="https://arxiv.org/abs/XXXX.XXXXX" target="_blank">[arXiv]</a>
+                <a href="./papers/yourpaper.pdf" target="_blank">[PDF]</a>
+            </div>
+
+            <h2>Projects</h2>
+            <p>
+                <strong>Project 1 Title</strong><br>
+                Brief description of the project and your contribution.<br>
+                <a href="https://github.com/yourusername/project1" target="_blank">[GitHub]</a>
+                <a href="./reports/project1.pdf" target="_blank">[Report]</a>
+            </p>
+
+            <p>
+                <strong>Project 2 Title</strong><br>
+                Brief description of the project and your contribution.<br>
+                <a href="https://github.com/yourusername/project2" target="_blank">[GitHub]</a>
+                <a href="./reports/project2.pdf" target="_blank">[Report]</a>
+            </p>
+        </main>
+    </div>
+</body>
+</html>
