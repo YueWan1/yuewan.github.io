@@ -38,7 +38,7 @@ Together, these research directions form my broader agenda: [1-2 sentences about
 ## Publications
 
 
-**[High-dimensional dynamics in low-dimensional networks]**  
+**High-dimensional dynamics in low-dimensional networks**  
 **Yue Wan**,**Robert Rosenbaum**  
 *In Preparation for Submission to [PLOS Computational Biology]*  
 [[arXiv](https://arxiv.org/abs/2504.13727)]
