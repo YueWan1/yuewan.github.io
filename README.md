@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 <img src="headshot.JPG" alt="Yue Wan (Zoe)" style="width:200px; border-radius:50%; display:block; margin:20px auto;">
 
 # Yue Wan (Zoe)
